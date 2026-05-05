@@ -4,4 +4,4 @@
 
 下面給一份比較接近「企業實作」的基礎版程式 train_gemma4_qlora.py 。這份程式是以文字微調為主，適合先把流程跑通。
 
-#Gemma #Qlora
+#從零建構大模型 #打造企業專屬的AI大腦 #Gemma #Qlora
